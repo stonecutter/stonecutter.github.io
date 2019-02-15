@@ -1,0 +1,6 @@
+.masthead{
+    background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("https://user-images.githubusercontent.com/40196155/51014772-56683300-15a4-11e9-8934-f8e4b9f09ad1.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
