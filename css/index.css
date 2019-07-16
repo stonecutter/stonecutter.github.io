@@ -4,3 +4,14 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+.icp-block{
+    text-align: center;
+}
+.icp, .name{
+    color: #333;
+    font-size: 12px;
+    display: inline;
+}
+.icp{
+    padding-right: 40px;
+}
